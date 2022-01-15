@@ -1,0 +1,91 @@
+{
+    "Tobey Maguire": [
+        {
+            "series": 1,
+            "title": "Spider Man",
+            "genre": "Action, Fantasy",
+            "year": 2002,
+            "duration": 121,
+            "release": "May 1, 2002",
+            "rating": "PG-13",
+            "imdb": "7.3",
+            "imdb_id": "tt0145487"
+        },{
+            "series": 2,
+            "title": "Spider Man 2",
+            "genre": "Action, Fantasy",
+            "year": 2004,
+            "duration": 127,
+            "release": "June 30, 2004",
+            "rating": "PG-13",
+            "imdb": "7.3",
+            "imdb_id": "tt0316654"
+        },{
+            "series": 3,
+            "title": "Spider Man 3",
+            "genre": "Action, Fantasy",
+            "year": 2007,
+            "duration": 139,
+            "release": "June 15, 2007",
+            "rating": "PG-13",
+            "imdb": "6.2",
+            "imdb_id": "tt0413300"
+        }
+    ],
+    "Andrew Garfield": [
+        {
+            "series": 1,
+            "title": "The Amazing Spider Man",
+            "genre": "Action, Adventure",
+            "year": 2012,
+            "duration": 136,
+            "release": "July 05, 2012",
+            "rating": "PG-13",
+            "imdb": "6.9",
+            "imdb_id": "tt0948470"
+        },{
+            "series": 2,
+            "title": "The Amazing Spider Man 2",
+            "genre": "Action, Adventure",
+            "year": 2014,
+            "duration": 142,
+            "release": "May 01, 2014",
+            "rating": "PG-13",
+            "imdb": "6.6",
+            "imdb_id": "tt1872181"
+        }
+    ],
+    "Tom Holland": [
+        {
+            "series": 1,
+            "title": "Spider Man Homecoming",
+            "genre": "Action, Adventure",
+            "year": 2017,
+            "duration": 133,
+            "release": "July 07, 2017",
+            "rating": "PG-13",
+            "imdb": "7.4",
+            "imdb_id": "tt2250912"
+        },{
+            "series": 2,
+            "title": "Spider Man Far From Home",
+            "genre": "Action, Adventure",
+            "year": 2019,
+            "duration": 129,
+            "release": "July 05, 2019",
+            "rating": "PG-13",
+            "imdb": "7.4",
+            "imdb_id": "tt6320628"
+        },{
+            "series": 3,
+            "title": "Spider Man No Way Home",
+            "genre": "Action, Adventure",
+            "year": 2021,
+            "duration": 148,
+            "release": "December 17, 2021",
+            "rating": "PG-13",
+            "imdb": "9.2",
+            "imdb_id": "tt10872600"
+        }
+    ]
+}
