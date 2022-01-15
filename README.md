@@ -3,12 +3,6 @@
 
 Hey 👋 Spiderman fans ❤️ this repo is a collection of all your favorite Spiderman series.
 
-| # | Actors          | Directors | Year      |
-| - | --------------- | --------- | --------- |
-| 1 | Tobey Maguire   | Sam Raimi | 2002—2007 |
-| 2 | Andrew Garfield | Marc Webb | 2012—2014 |
-| 3 | Tom Holland     | Jon Watts | 2017—2021 |
-
 From the selection, 🤔 choose your favorite actor and **react** will display all available movies as a component based UI cards, ✨ inspired by **Google**.
 
 A small piece of **JSON data** is also used, you can find it in the repo 💜
