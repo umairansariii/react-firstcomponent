@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    width: 720px;
+    padding: 2rem;
+    padding-bottom: 1rem;
+    border-radius: 1rem;
+    border: 1px solid #c8c8c8;
+}
+select {
+    margin-top: .5rem;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid #c8c8c8;
+}
+#choose {
+    margin-bottom: 1rem;
+}
+#movies {
+    display: flex;
+    flex-wrap: wrap;
+}
